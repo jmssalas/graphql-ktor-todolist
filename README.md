@@ -1,1 +1,1 @@
-# kgraphql-todolist
+# graphql-ktor-todolist
