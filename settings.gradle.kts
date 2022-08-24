@@ -1,0 +1,1 @@
+rootProject.name = "jmssalas.graphql.ktor-todolist"
